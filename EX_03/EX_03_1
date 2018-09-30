@@ -1,0 +1,7 @@
+hrs = input("Enter Hours:")
+h = float(hrs)
+if h>40 :
+    x=h-40
+    pay= h*10.5+x*1.5*10.5
+    print('',pay)
+    
